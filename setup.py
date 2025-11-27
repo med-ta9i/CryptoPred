@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="crypto-price-prediction",
     version="1.0.0",
-    author="Votre Nom",
-    author_email="votre.email@example.com",
+    author="Taki",
+    author_email="taki.mhamed.taki@gmail.com",
     description="Système de prédiction de prix de cryptomonnaies",
     long_description=long_description,
     long_description_content_type="text/markdown",
