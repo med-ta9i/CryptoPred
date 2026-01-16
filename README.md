@@ -121,8 +121,5 @@ Voir [docs/structure.md](docs/structure.md) pour la structure complète.
 
 ## 👨‍💻 Auteur
 
-Votre Nom - Projet de fin d'études en Ingénierie des Données
+M'hamed Taki 
 
-## 📄 License
-
-MIT License - voir [LICENSE](LICENSE)
